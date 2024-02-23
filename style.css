@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+header{
+    color: black;
+    font-family: 'Young Serif', serif;
+    text-align: center;
+    margin-bottom: 10px;
+    background-image: url(background.png);
+    background-size: 100%;
+    background-repeat: repeat;
+    padding: 10px;
+    position: sticky;
+    top: 10px;
+    margin: 10px;
+        
+    }
+
+span{
+    margin-right: 25px;
+    
+}
+
+button{
+    color: aliceblue;
+    background-color: black;
+    
+}
+.banner{
+    background-image:url(https://wallpaperaccess.com/full/5656666.jpg);
+    background-size: cover ;
+    width: 100%;
+    height: 600px;
+}
+
+.a{
+    font-family: 'Great Vibes', cursive;
+    font-size: 55px;
+    margin-right: 305px;
+    
+}
+
+.b{
+    text-align: center;
+
+
+    
+}
+.row{
+
+}
+
+
+.row{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 600px;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.col{
+    background-color: rgb(240, 217, 140);
+    width: 450px;
+    height: 450px;
+    margin-left: 10px;
+    border-radius: 10px;
+    
+}
+.col img{
+    width: 350px;
+    height: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-top: 30px;
+    
+}
+h4,h5{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#btn{
+    color: rgb(255, 245, 245);
+    background-color: rgb(37, 35, 35);
+    padding: 10px;
+    margin-left: 180px;
+    margin-top: 15px;
+}
+footer,p{
+    background-color: rgb(240, 217, 140);
+    width: 100%;
+    height: 50px;
+    color: rgb(9, 9, 16);
+    text-align: center;   
+
+}
+
